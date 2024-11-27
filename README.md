@@ -39,7 +39,7 @@
 ---
 
 ## ⚡ Fun Extras:
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=YaserZarifi)
+[![](https://visitcount.itsvg.in/api?id=YaserZarifi&icon=0&color=0)](https://visitcount.itsvg.in)
 ![GitHub Stars](https://img.shields.io/github/stars/YaserZarifi?style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/YaserZarifi?style=flat-square)
 

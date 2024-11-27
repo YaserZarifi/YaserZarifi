@@ -1,7 +1,7 @@
 <!-- Centered header -->
 <div align="center">
   <h1>👋 Hi, I'm Yaser Zarifi!</h1>
-  <p>🌟 Aspiring Machine Learning Engineer | Passionate about AI and Technology 🌟</p>
+  <p>🌟 Aspiring Machine Learning Student | Passionate about AI and Web🌟</p>
 </div>
 
 ---

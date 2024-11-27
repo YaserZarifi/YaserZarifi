@@ -1,20 +1,70 @@
-# 💫 About Me:
-👷 I’m currently working on:<br>Developing a Persian Search Engine for my Information Retrieval course, alongside exploring Machine Learning concepts through a bootcamp and personal projects.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects related to Artificial Intelligence, Machine Learning, or innovative applications of Computer Engineering.<br><br>👐 I’m looking for help with:<br>Django web development and implementing advanced search algorithms in my projects.<br><br>🌱 I’m currently learning:<br>Machine Learning, AI techniques, and refining my skills in Python and Django for web and search engine projects.<br><br>💬 Ask me about:<br>Persian Search Engines, urban planning (my former field of study), or my experiences balancing academic and personal projects.<br><br>⚡ Fun fact:<br>I transitioned from urban planning to computer engineering and discovered a passion for AI and embedded systems along the way!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/) 
-
-# 💻 Tech Stack:
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YaserZarifi&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YaserZarifi&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+<!-- Centered header -->
+<div align="center">
+  <h1>👋 Hi, I'm Yaser Zarifi!</h1>
+  <p>🌟 Aspiring Machine Learning Engineer | Passionate about AI and Technology 🌟</p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=YaserZarifi&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me:
+- 👷 **Currently working on**:  
+  Developing a **Persian Search Engine** for my Information Retrieval course and exploring **Machine Learning** concepts through a bootcamp and personal projects.
+
+- 🤝 **Looking to collaborate on**:  
+  Open-source projects related to **Artificial Intelligence, Machine Learning**, or innovative applications of Computer Engineering.
+
+- 👐 **Need help with**:  
+  **Django web development** and implementing advanced search algorithms in my projects.
+
+- 🌱 **Currently learning**:  
+  **Machine Learning, AI techniques**, and refining my skills in **Python** and **Django** for web and search engine projects.
+
+- 💬 **Ask me about**:  
+  Persian Search Engines, urban planning (my former field of study), or my experiences balancing academic and personal projects.
+
+- ⚡ **Fun fact**:  
+  I transitioned from urban planning to computer engineering and discovered a passion for **AI** and **embedded systems** along the way!
+
+---
+
+## 🌐 Connect with Me:
+<div align="center">
+  <a href="https://linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+## 💻 Tech Stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</div>
+
+---
+
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaserZarifi&theme=onedark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies:
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YaserZarifi&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=YaserZarifi&icon=0&color=0" alt="Profile Views" />
+</div>

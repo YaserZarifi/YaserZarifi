@@ -68,7 +68,7 @@ I build **systems**. From training Machine Learning models to architecting scala
 ### 🌐 Let's Connect
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/">
+  <a href="https://www.linkedin.com/in/mohammad-yaser-zarifi/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:yaserzarifi1378@gmail.com">

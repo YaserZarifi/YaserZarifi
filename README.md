@@ -1,94 +1,85 @@
-<!-- Centered header -->
 <div align="center">
-  <h1>👋 Hi, I'm Yaser Zarifi!</h1>
-  <p>🌟 Aspiring Machine Learning Student | Passionate about AI and Web 🌟</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Yaser+Zarifi!+%F0%9F%91%8B;CE+%40+AUT;Django+%2B+React+Developer;ML+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <h3><i>"The Force is strong with this code." 🌌</i></h3>
 </div>
 
 ---
 
-## 💫 About Me:
-- 👷 **Currently working on**:  
-  Exploring **Machine Learning** concepts through a bootcamp and personal projects.
+### 👨‍💻 About Me
 
-- 🤝 **Looking to collaborate on**:  
-  Open-source projects related to **Artificial Intelligence, Machine Learning**, or innovative applications of Computer Engineering.
+I am a **Computer Engineering Student** at **Amirkabir University of Technology (AUT)**, bridging the gap between complex data models and beautiful user interfaces. 
 
-- 👐 **Need help with**:  
-  **Django web development** and implementing advanced algorithms in real-world projects.
+I build **systems**. From training Machine Learning models to architecting scalable web apps with Django & React, I love solving problems that matter.
 
-- 🌱 **Currently learning**:  
-  **Machine Learning, AI techniques**, and refining my skills in **Python** and **Django** for web-based and intelligent systems.
+- 🔭 **Currently Working On:**
+  - An intelligent **Chatbot Engine** for WordPress.
+  - Mastering **French** 🇫🇷 (Oui, c'est difficile!).
 
-- 💬 **Ask me about**:  
-  AI projects, urban planning (my former field of study), or my experiences balancing academic and personal development.
+- 🧠 **My Technical Playground:**
+  - **Web Development:** Building scalable apps with **Django**, **React.js**, & **Tailwind**.
+  - **Machine Learning:** Training models with **TensorFlow** & analyzing data with **Pandas**.
 
-- ⚡ **Fun fact**:  
-  I transitioned from urban planning to computer engineering and discovered a passion for **AI** and **embedded systems** along the way!
+- ⚡ **When I'm AFK (Away From Keyboard):**
+  - You'll find me at the **Gym** 🏋️ or playing **Futsal** ⚽.
+  - Rewatching **Star Wars**, **LOTR**, or analyzing the cinematography in **Harry Potter**.
+  - *Fun Fact:* I used to study Urban Planning, now I plan Digital Architectures! 🏙️➡️💻
 
 ---
 
-## 🌐 Connect with Me:
+### 🛠️ Tech Stack & Arsenal
+
 <div align="center">
-  <a href="https://linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+
+| **Frontend** | **Backend** | **AI & Data** | **DevOps & Tools** |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=python,django,c,java" /> | <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,matplotlib,pytorch" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,mysql" /> |
+
+</div>
+
+---
+
+### 🏆 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **📈 Professional Online Broker** | A full-stack trading platform with a high-performance UI. Deployed as **microservices** using Docker for scalability. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **🤖 AI Chatbot for WordPress** | *(In Progress)* A custom AI plugin and modern UI for WordPress, integrating Python backend logic with a React frontend. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+
+---
+
+### 📊 The Data (GitHub Stats)
+
+<div align="center">
+  <a href="https://github.com/YaserZarifi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YaserZarifi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&layout=compact&theme=tokyonight&hide_border=true"/>
   </a>
 </div>
 
-
----
-
-## 💻 Tech Stack:
 <div align="center">
-  <!-- Core Programming & Frameworks -->
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-
-  <!-- Frontend / UI -->
-  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-  <!-- Tools / DevOps -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-  <!-- AI / ML -->
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/matplotlib-004088.svg?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
-
-  <!-- Embedded / Hardware -->
-  <img src="https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaserZarifi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 📊 GitHub Stats:
+### 🌐 Let's Connect
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YaserZarifi&theme=onedark&hide_border=false" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
----
-
-## 🏆 GitHub Trophies:
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YaserZarifi&theme=dark&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=YaserZarifi&icon=0&color=0" alt="Profile Views" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=YaserZarifi&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <br>
+  <br>
+  <i>"This is the way."</i> 🛸
 </div>

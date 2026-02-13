@@ -71,7 +71,7 @@ I build **systems**. From training Machine Learning models to architecting scala
   <a href="https://linkedin.com/in/mohammad-yaser-zarifi-2b16b0205/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:yaserzarifi1378@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>

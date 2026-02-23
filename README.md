@@ -8,24 +8,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Architecting Digital Ecosystems
 
-I am a **Computer Engineering Student** at **Amirkabir University of Technology (AUT)**, bridging the gap between complex data models and beautiful user interfaces. 
+I am a **Computer Engineering Student** at **Amirkabir University of Technology (AUT)**, specializing in bridging the gap between heavy-duty data models and premium, frictionless user experiences. 
 
-I build **systems**. From training Machine Learning models to architecting scalable web apps with Django & React, I love solving problems that matter.
+I build **systems**. From training neural networks to architecting highly scalable SaaS platforms with Django and React, I thrive on turning complex problems into elegant, deployable realities. 
 
-- 🔭 **Currently Working On:**
-  - An intelligent **Chatbot Engine** for WordPress.
-  - Mastering **French** 🇫🇷 (Oui, c'est difficile!).
+- 🔭 **Current Engineering Focus:**
+  - Architecting a **Premium SaaS Booking Engine** for WordPress (React + PHP + n8n automation pipeline).
+  - Deploying **Vapi AI Voice Agents** for seamless human-computer interaction.
 
 - 🧠 **My Technical Playground:**
-  - **Web Development:** Building scalable apps with **Django**, **React.js**, & **Tailwind**.
-  - **Machine Learning:** Training models with **TensorFlow** & analyzing data with **Pandas**.
+  - **Full-Stack Mastery:** Building scalable, microservice-driven apps with **Django**, **React.js**, and **TailwindCSS**.
+  - **Machine Learning & Data:** Training predictive models with **TensorFlow** and engineering data pipelines via **Pandas** and **NumPy**.
 
-- ⚡ **When I'm AFK (Away From Keyboard):**
-  - You'll find me at the **Gym** 🏋️ or playing **Futsal** ⚽.
-  - Rewatching **Star Wars**, **LOTR**, or analyzing the cinematography in **Harry Potter**.
-  - *Fun Fact:* I used to study Urban Planning, now I plan Digital Architectures! 🏙️➡️💻
+- ⚡ **When I'm Offline (Recharging the Core):**
+  - Lifting heavy at the **Gym** 🏋️ or dominating the court in **Futsal** ⚽.
+  - Producing tracks for my music channel, **Binary Beats** 🎵.
+  - Hacking my brain to master **French** 🇫🇷 using custom-built Anki algorithms.
+  - Analyzing the cinematography of **Star Wars**, **LOTR**, and **Harry Potter**. (Always looking for the magic behind the scenes).
 
 ---
 
@@ -35,22 +36,23 @@ I build **systems**. From training Machine Learning models to architecting scala
 
 | **Frontend** | **Backend** | **AI & Data** | **DevOps & Tools** |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=python,django,c,java" /> | <img src="https://skillicons.dev/icons?i=tensorflow,numpy,pandas,matplotlib,pytorch" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,mysql" /> |
+| <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind" /> | <img src="https://skillicons.dev/icons?i=python,django,c,java" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" /><br><br><img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,mysql" /> |
 
 </div>
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 Featured Engineering Projects
 
-| Project | Description | Tech Stack |
+| Project | Architecture & Impact | Tech Stack |
 | :--- | :--- | :--- |
-| **📈 Professional Online Broker** | A full-stack trading platform with a high-performance UI. Deployed as **microservices** using Docker for scalability. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| **🤖 AI Chatbot for WordPress** | *(In Progress)* A custom AI plugin and modern UI for WordPress, integrating Python backend logic with a React frontend. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
+| **📈 Professional Online Broker** | A full-stack, real-time trading platform with a high-performance UI. Engineered and deployed utilizing **Docker microservices** for absolute scalability. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **🤖 Premium SaaS Booking Engine** | A completely custom, timezone-aware scheduling ecosystem for WordPress. Features a dynamic React frontend Command Center, custom PHP REST API interceptors, and a full n8n automated communication pipeline. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6E4A?style=flat&logo=n8n&logoColor=white) |
+
 
 ---
 
-### 📊 The Data (GitHub Stats)
+### 📊 The Data (Telemetry)
 
 <div align="center">
   <a href="https://github.com/YaserZarifi">
@@ -65,7 +67,7 @@ I build **systems**. From training Machine Learning models to architecting scala
 
 ---
 
-### 🌐 Let's Connect
+### 🌐 Establish a Connection
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohammad-yaser-zarifi/">

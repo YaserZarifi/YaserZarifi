@@ -15,6 +15,7 @@ I am a **Computer Engineering Student** at **Amirkabir University of Technology 
 I build **systems**. From training neural networks to architecting highly scalable SaaS platforms with Django and React, I thrive on turning complex problems into elegant, deployable realities. 
 
 - 🔭 **Current Engineering Focus:**
+  - Architecting **SharifiNeya** — a full-stack Travel & Booking Platform (Django + React + PostgreSQL) with multi-portal architecture, digital wallet, and flight booking engine.
   - Architecting a **Premium SaaS Booking Engine** for WordPress (React + PHP + n8n automation pipeline).
   - Deploying **Vapi AI Voice Agents** for seamless human-computer interaction.
 
@@ -46,6 +47,7 @@ I build **systems**. From training neural networks to architecting highly scalab
 
 | Project | Architecture & Impact | Tech Stack |
 | :--- | :--- | :--- |
+| **✈️ SharifiNeya Travel Platform** | A full-stack Travel & Booking Management Platform with multi-portal architecture (Public, B2C, B2B Agent, Admin). Features a digital wallet, double-entry ledger, flight booking engine, dynamic markup rules, and i18n (EN, Dari, Pashto) with RTL support. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white) |
 | **📈 Professional Online Broker** | A full-stack, real-time trading platform with a high-performance UI. Engineered and deployed utilizing **Docker microservices** for absolute scalability. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 | **🤖 Premium SaaS Booking Engine** | A completely custom, timezone-aware scheduling ecosystem for WordPress. Features a dynamic React frontend Command Center, custom PHP REST API interceptors, and a full n8n automated communication pipeline. | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-FF6E4A?style=flat&logo=n8n&logoColor=white) |
 

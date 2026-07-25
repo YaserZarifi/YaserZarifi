@@ -1,244 +1,215 @@
-<!--
-  ╔═══════════════════════════════════════════════════════════════════╗
-  ║  Girih palette                                                    ║
-  ║    Lapis     #0B1B34    Persian Blue #1C39BB                      ║
-  ║    Turquoise #2EC4B6    Saffron      #E9B44C                      ║
-  ║    Terracotta#C1440E    Cream        #F4EBD0                      ║
-  ╚═══════════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1B34,50:1C39BB,100:2EC4B6&height=190&section=header&text=Mohammad%20Yaser%20Zarifi&fontSize=40&fontColor=F4EBD0&fontAlignY=36&desc=Computer%20Engineer%20%C2%B7%20AUT%20%C2%B7%20Full-Stack%20%26%20AI&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1C2128&height=150&text=YASER%20ZARIFI&fontColor=FFB000&fontSize=52&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%C2%B7%20APPLIED%20AI%20%C2%B7%20AUT&descSize=15&descAlignY=68&animation=blinking" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=E9B44C&center=true&vCenter=true&width=580&lines=Django+%2B+DRF+%2B+React+%2B+PostgreSQL;React+Native+apps+live+on+Google+Play;AI+%2F+ML+%2F+NLP+enthusiast;I+ship+products%2C+not+prototypes" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2600&pause=800&color=FFB000&center=true&vCenter=true&width=620&lines=NOW+BOARDING%3A+Django+%2B+DRF+%2B+React;IN+SERVICE%3A+React+Native+app+on+Google+Play;ON+TIME%3A+applied+ML+and+NLP;GATE+OPEN%3A+available+for+new+projects" alt="board"/>
 
 <br/>
 
-**`۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞`**
-
-<a href="https://yaserzarifi.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0B1B34?style=for-the-badge&logo=vercel&logoColor=E9B44C&labelColor=0B1B34"/></a>
-<a href="https://www.linkedin.com/in/mohammad-yaser-zarifi/"><img src="https://img.shields.io/badge/LinkedIn-1C39BB?style=for-the-badge&logo=linkedin&logoColor=F4EBD0"/></a>
-<a href="mailto:yaserzarifi1378@gmail.com"><img src="https://img.shields.io/badge/Email-C1440E?style=for-the-badge&logo=gmail&logoColor=F4EBD0"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.sharifineya.mobile"><img src="https://img.shields.io/badge/Google%20Play-2EC4B6?style=for-the-badge&logo=googleplay&logoColor=0B1B34"/></a>
+<a href="#projects"><img src="https://img.shields.io/badge/01-PROJECTS-0D1117?style=for-the-badge&labelColor=1C2128"/></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/02-TECH%20STACK-0D1117?style=for-the-badge&labelColor=1C2128"/></a>
+<a href="#how-i-work"><img src="https://img.shields.io/badge/03-HOW%20I%20WORK-0D1117?style=for-the-badge&labelColor=1C2128"/></a>
+<a href="#activity"><img src="https://img.shields.io/badge/04-ACTIVITY-0D1117?style=for-the-badge&labelColor=1C2128"/></a>
+<a href="#contact"><img src="https://img.shields.io/badge/05-CONTACT-0D1117?style=for-the-badge&labelColor=1C2128"/></a>
 
 </div>
 
----
-
-## ۞ &nbsp;About Me &nbsp;</samp>
-
-> *"The best way to predict the future is to build it."*
-
-**Computer Engineering graduate — Amirkabir University of Technology (AUT).**
-
-I build software that real people log into. My work sits where solid backend engineering, careful interface design, and applied machine learning meet — the kind of engineering where a booking either goes through or it doesn't, and the API had better be honest about which.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**◈ &nbsp;What I build**
-
-- Full-stack platforms — Django · DRF · React · PostgreSQL
-- Cross-platform mobile — React Native · Expo
-- Applied AI / ML and NLP features
-- API design, architecture, scalable deployment
-
-</td>
-<td width="50%" valign="top">
-
-**◈ &nbsp;How I build it**
-
-- Production-first: shipped, used, maintained
-- REST contracts before UI guesswork
-- Dockerized, reproducible environments
-- Multilingual and RTL-aware from day one
-
-</td>
-</tr>
-</table>
-
----
-
-## ✦ &nbsp;Engineering Focus &nbsp;</samp>
-
-### ⬢ &nbsp;Sharifineya Travel Platform &nbsp;<img src="https://img.shields.io/badge/production-2EC4B6?style=flat-square&logoColor=0B1B34"/>
-
-A complete travel & transportation ecosystem built for Sharifineya Travel Services — customer web platform, admin management system, booking workflows, passenger management, payment integration, multilingual support, and the REST API that also feeds the mobile app.
-
-```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#12294a','primaryTextColor':'#F4EBD0','primaryBorderColor':'#E9B44C','lineColor':'#2EC4B6','secondaryColor':'#1C39BB','tertiaryColor':'#0B1B34','fontFamily':'Fira Code'}}}%%
-flowchart LR
-    W["🌐 React Web"] --> API
-    M["📱 React Native App"] --> API
-    A["🛠️ Admin System"] --> API
-    API{{"Django REST Framework"}}
-    API --> DB[("PostgreSQL")]
-    API --> PAY["💳 Payment Gateway"]
-    API --> I18N["🈯 i18n / RTL"]
-    API --> DOC["🐳 Docker Deploy"]
+```
+╔════════════════════════════════════════════════════════════╗
+║ BOARDING PASS                                     SEAT 01A ║
+╠════════════════════════════════════════════════════════════╣
+║ PASSENGER  MOHAMMAD YASER ZARIFI                           ║
+║ FROM       AUT, Computer Engineering                       ║
+║ TO         Production, full-stack + AI                     ║
+║ CARRIER    Django · DRF · React · PostgreSQL               ║
+║ GATE       github.com/YaserZarifi                          ║
+╠════════════════════════════════════════════════════════════╣
+║ STATUS                                        OPEN TO WORK ║
+╚════════════════════════════════════════════════════════════╝
 ```
 
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/React-1C39BB?style=flat-square&logo=react&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B1B34?style=flat-square&logo=postgresql&logoColor=2EC4B6"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-2EC4B6?style=flat-square&logo=tailwindcss&logoColor=0B1B34"/>
-</p>
+I studied Computer Engineering at Amirkabir University of Technology, and most of
+what I build ends up in front of real users: booking flows, payments, passenger
+records, mobile apps. The backend is where I'm most comfortable, usually Django
+and DRF over PostgreSQL, with React or React Native on the front. I also work
+with machine learning, and I'm most interested in NLP and recommendation systems.
 
 <br/>
 
-### ⬡ &nbsp;Sharifineya Mobile App &nbsp;<img src="https://img.shields.io/badge/on%20Google%20Play-E9B44C?style=flat-square&logoColor=0B1B34"/>
+## Projects
 
-A published Android application delivering the transportation service as a mobile-first experience: trip search, booking flows, passenger information management, and live backend communication.
-
-**[▸ Install from Google Play](https://play.google.com/store/apps/details?id=com.sharifineya.mobile)**
-
-<p>
-<img src="https://img.shields.io/badge/React%20Native-1C39BB?style=flat-square&logo=react&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/Expo-0B1B34?style=flat-square&logo=expo&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/JavaScript-E9B44C?style=flat-square&logo=javascript&logoColor=0B1B34"/>
-<img src="https://img.shields.io/badge/REST%20API-2EC4B6?style=flat-square&logoColor=0B1B34"/>
-</p>
+| # | Project | What it is | Stack | Status |
+|:--|:--|:--|:--|:--|
+| 01 | **[Sharifineya Travel Platform](https://www.sharifineyatrip.com/)** | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | `IN SERVICE` |
+| 02 | **[Sharifineya Mobile](https://play.google.com/store/apps/details?id=com.sharifineya.mobile)** | Android app for searching and booking trips | React Native, Expo | `ON GOOGLE PLAY` |
+| 03 | **Urban Helper** | Civic platform for reporting and tracking city issues | Django, React, PostgreSQL | `DELIVERED` |
+| 04 | **Pahlawan** | AI workout planner with personalized training plans | Python, Django, React | `ACTIVE` |
+| 05 | **[Portfolio](https://yaserzarifi.vercel.app)** | Personal site for projects and experience | Next.js, React, Tailwind | `DEPLOYED` |
 
 <br/>
 
-### ⬢ &nbsp;Urban Helper &nbsp;<img src="https://img.shields.io/badge/B.Sc.%20final%20project-1C39BB?style=flat-square"/>
-
-A civic assistance platform from my final year at AUT, built to close the gap between citizens and urban service providers — turning scattered municipal complaints into a trackable digital workflow.
-
-<p>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/React-1C39BB?style=flat-square&logo=react&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0B1B34?style=flat-square&logo=postgresql&logoColor=2EC4B6"/>
-<img src="https://img.shields.io/badge/REST%20API-2EC4B6?style=flat-square&logoColor=0B1B34"/>
-</p>
+<details open>
+<summary><b>01 &nbsp; Sharifineya Travel Platform</b> &nbsp; <code>production</code></summary>
 
 <br/>
 
-### ⬡ &nbsp;Pahlawan — AI Workout Planner &nbsp;<img src="https://img.shields.io/badge/AI-C1440E?style=flat-square"/>
+The travel and transportation system I built for Sharifineya Travel Services. It
+covers the customer website, the admin panel, booking, passenger management,
+payments, and multiple languages. One REST API serves both the web app and the
+mobile app.
 
-An AI-powered fitness companion that generates personalized training plans and keeps a user's whole journey organized — recommendations that adapt to the person instead of handing everyone the same spreadsheet.
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#C9D1D9','primaryBorderColor':'#FFB000','lineColor':'#FFB000','secondaryColor':'#0D1117','tertiaryColor':'#0D1117','fontFamily':'monospace'}}}%%
+flowchart TD
+    W["React Web"]
+    M["React Native App"]
+    A["Admin Console"]
+    API{{"Django REST Framework"}}
+    W --> API
+    M --> API
+    A --> API
+    API --> DB[("PostgreSQL")]
+    API --> PAY["Payment Gateway"]
+    API --> I18N["i18n / RTL"]
+    API --> DOC["Docker"]
+```
 
-<p>
-<img src="https://img.shields.io/badge/React-1C39BB?style=flat-square&logo=react&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/Python-0B1B34?style=flat-square&logo=python&logoColor=E9B44C"/>
-<img src="https://img.shields.io/badge/AI%2FML-C1440E?style=flat-square"/>
-</p>
-
-<br/>
-
-### ⬢ &nbsp;Personal Portfolio
-
-My developer portfolio — projects, skills, and engineering experience in one place.
-**[▸ yaserzarifi.vercel.app](https://yaserzarifi.vercel.app)**
-
-<p>
-<img src="https://img.shields.io/badge/Next.js-0B1B34?style=flat-square&logo=nextdotjs&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/React-1C39BB?style=flat-square&logo=react&logoColor=F4EBD0"/>
-<img src="https://img.shields.io/badge/TailwindCSS-2EC4B6?style=flat-square&logo=tailwindcss&logoColor=0B1B34"/>
-</p>
-
----
-
-## ◈ &nbsp;Tech Stack &nbsp;</samp>
-
-<div align="center">
-
-|  ✦ Frontend  |  ✦ Backend  |  ✦ AI & Data  |  ✦ Infra & Tools  |
-| :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" /> | <img src="https://skillicons.dev/icons?i=python,django,java,c&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" /><br/><img src="https://img.shields.io/badge/NumPy-0B1B34?style=flat-square&logo=numpy&logoColor=2EC4B6"/> <img src="https://img.shields.io/badge/Pandas-0B1B34?style=flat-square&logo=pandas&logoColor=E9B44C"/> | <img src="https://skillicons.dev/icons?i=docker,git,github,linux&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=postgresql,vscode&theme=dark" /> |
-
-</div>
-
----
-
-## ✦ &nbsp;Areas of Interest
-
-<div align="center">
-
-`◆ Artificial Intelligence & Machine Learning` &nbsp; `◇ Natural Language Processing`
-
-`◆ Search & Recommendation Systems` &nbsp; `◇ Software Engineering`
-
-`◆ Database Systems` &nbsp; `◇ Cloud Deployment` &nbsp; `◆ UX Engineering`
-
-</div>
-
-<details>
-<summary><b>۞ &nbsp;A little more, if you're curious</b></summary>
-
-<br/>
-
-- **Reading toward:** retrieval-augmented systems, vector search, and Persian-language NLP — a language whose morphology punishes lazy tokenizers.
-- **Comfort zone:** taking a vague product idea, drawing the data model, and having a working API by the end of the week.
-- **Long game:** software that serves the city it's built in — civic tech, transport, accessibility.
-- **Non-negotiable:** if it isn't deployed, it isn't done.
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/DRF-0D1117?style=flat-square&logo=django&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=FFB000"/>
 
 </details>
 
----
-
-## ۞ &nbsp;GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YaserZarifi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0B1B34&title_color=E9B44C&icon_color=2EC4B6&text_color=F4EBD0"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&layout=compact&langs_count=8&hide_border=true&bg_color=0B1B34&title_color=E9B44C&text_color=F4EBD0"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YaserZarifi&hide_border=true&background=0B1B34&stroke=E9B44C&ring=2EC4B6&fire=C1440E&currStreakLabel=E9B44C&sideLabels=F4EBD0&dates=F4EBD0&sideNums=F4EBD0&currStreakNum=F4EBD0"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YaserZarifi&bg_color=0B1B34&color=F4EBD0&line=2EC4B6&point=E9B44C&area=true&area_color=1C39BB&hide_border=true" width="98%"/>
+<details>
+<summary><b>02 &nbsp; Sharifineya Mobile</b> &nbsp; <code>live on google play</code></summary>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YaserZarifi&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6"/>
+An Android app published on Google Play. Users can search for trips, book them,
+and enter passenger details, and all of it talks to the same Django backend as
+the website.
 
-</div>
+**[Download on Google Play](https://play.google.com/store/apps/details?id=com.sharifineya.mobile)**
 
----
+<img src="https://img.shields.io/badge/React%20Native-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Expo-0D1117?style=flat-square&logo=expo&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=fastapi&logoColor=FFB000"/>
 
-## ◈ &nbsp;Let's Build Something
+</details>
 
-<div align="center">
-
-Open to collaboration, freelance work, and roles in **full-stack** or **AI-driven** product engineering.
-
-<a href="https://www.linkedin.com/in/mohammad-yaser-zarifi/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-1C39BB?style=for-the-badge&logo=linkedin&logoColor=F4EBD0"/></a>
-<a href="mailto:yaserzarifi1378@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-C1440E?style=for-the-badge&logo=gmail&logoColor=F4EBD0"/></a>
-<a href="https://yaserzarifi.vercel.app"><img src="https://img.shields.io/badge/See%20My%20Work-0B1B34?style=for-the-badge&logo=vercel&logoColor=E9B44C"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=YaserZarifi&style=for-the-badge&color=1C39BB&label=VISITORS"/>
+<details>
+<summary><b>03 &nbsp; Urban Helper</b> &nbsp; <code>b.sc. final project</code></summary>
 
 <br/>
 
-**`۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞ ◈ ✦ ◈ ۞`**
+My final project at AUT. Citizens can report city problems and follow what
+happens to them, so requests don't get lost between the people who file them and
+the services that handle them.
 
-*Always learning. Always building.* &nbsp;·&nbsp; <samp>همیشه در حال ساختن</samp>
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/REST%20API-0D1117?style=flat-square&logo=fastapi&logoColor=FFB000"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC4B6,50:1C39BB,100:0B1B34&height=120&section=footer" width="100%"/>
+</details>
+
+<details>
+<summary><b>04 &nbsp; Pahlawan, AI Workout Planner</b> &nbsp; <code>ai</code></summary>
+
+<br/>
+
+A fitness app that builds personalized workout plans and helps users keep their
+training organized. The hard part was keeping the generated plans realistic
+enough that people would actually stick to them.
+
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Django-0D1117?style=flat-square&logo=django&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/AI%2FML-0D1117?style=flat-square&logo=openai&logoColor=FFB000"/>
+
+</details>
+
+<details>
+<summary><b>05 &nbsp; Portfolio</b> &nbsp; <code>deployed</code></summary>
+
+<br/>
+
+My projects and experience in one place.
+
+**[yaserzarifi.vercel.app](https://yaserzarifi.vercel.app)**
+
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Tailwind-0D1117?style=flat-square&logo=tailwindcss&logoColor=FFB000"/>
+<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=FFB000"/>
+
+</details>
+
+<br/>
+
+## Tech Stack
+
+| Layer | | Tools |
+|:--|:--|:--|
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,django,postgresql&perline=3" height="38"/> | Python, Django, Django REST Framework, PostgreSQL, REST API design |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind&perline=4" height="38"/> | React, Next.js, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=react,js&perline=2" height="38"/> | React Native, Expo |
+| **AI and Data** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" height="38"/> | TensorFlow, PyTorch, NumPy, Pandas |
+| **Infra and Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&perline=5" height="38"/> | Docker, Git, GitHub, Linux, Vercel |
+| **Also** | <img src="https://skillicons.dev/icons?i=java,c&perline=2" height="38"/> | Java, C |
+
+<br/>
+
+## How I Work
+
+| | |
+|:--|:--|
+| **Schema first** | I design the data model before writing endpoints. |
+| **API before UI** | The contract gets agreed on before anything is styled. |
+| **Reproducible** | Docker, so it runs the same on every machine. |
+| **Multilingual early** | Languages and RTL are handled from the start, not patched in. |
+| **Shipped** | Deployed and kept running, not left on localhost. |
+
+**Learning right now:** retrieval augmented generation, vector search, and Persian language NLP.
+
+**Interested in:** AI and machine learning, NLP, search and recommendation systems, database systems, cloud deployment, UX engineering.
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=YaserZarifi&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FFB000&icon_color=FFB000&text_color=C9D1D9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaserZarifi&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=FFB000&text_color=C9D1D9"/>
+
+<img src="https://streak-stats.demolab.com?user=YaserZarifi&hide_border=true&background=0D1117&stroke=30363D&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=C9D1D9&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YaserZarifi&bg_color=0D1117&color=C9D1D9&line=FFB000&point=FFFFFF&area=true&area_color=FFB000&hide_border=true&custom_title=Contributions" width="100%"/>
 
 </div>
 
-<!--
-  ── Optional upgrades ─────────────────────────────────────────────
-  1) Pinned project cards (swap in your real repo names):
-     <img src="https://github-readme-stats.vercel.app/api/pin/?username=YaserZarifi&repo=REPO_NAME&hide_border=true&bg_color=0B1B34&title_color=E9B44C&icon_color=2EC4B6&text_color=F4EBD0"/>
+<br/>
 
-  2) Animated contribution snake — add .github/workflows/snake.yml
-     (Platane/snk action), then embed the generated SVG here.
+## Contact
 
-  3) WakaTime coding-time card, if you use WakaTime:
-     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&layout=compact&hide_border=true&bg_color=0B1B34&title_color=E9B44C&text_color=F4EBD0"/>
-  ──────────────────────────────────────────────────────────────────
--->
+| | |
+|:--|:--|
+| **Email** | [yaserzarifi1378@gmail.com](mailto:yaserzarifi1378@gmail.com) |
+| **LinkedIn** | [mohammad-yaser-zarifi](https://www.linkedin.com/in/mohammad-yaser-zarifi/) |
+| **Portfolio** | [yaserzarifi.vercel.app](https://yaserzarifi.vercel.app) |
+| **Google Play** | [Sharifineya Mobile](https://play.google.com/store/apps/details?id=com.sharifineya.mobile) |
+
+Open to full-stack and AI engineering roles, freelance work, and collaborations.
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YaserZarifi&style=for-the-badge&color=FFB000&label=VISITORS"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1C2128,100:0D1117&height=90&section=footer&text=ALWAYS%20LEARNING%20%C2%B7%20ALWAYS%20BUILDING&fontColor=FFB000&fontSize=18&fontAlignY=52" width="100%"/>
+
+</div>

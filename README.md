@@ -140,7 +140,7 @@ enough that people would actually stick to them.
 
 My projects and experience in one place.
 
-**[yaserzarifi.vercel.app](https://yaserzarifi.vercel.app)**
+**[yaserzarifi.vercel.app](https://yaserzarifi.vercel.app/en)**
 
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFB000"/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>

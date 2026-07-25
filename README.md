@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1C2128&height=150&text=YASER%20ZARIFI&fontColor=FFB000&fontSize=52&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%C2%B7%20APPLIED%20AI%20%C2%B7%20AUT&descSize=15&descAlignY=68&animation=blinking" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=2600&pause=800&color=FFB000&center=true&vCenter=true&width=620&lines=NOW+BOARDING%3A+Django+%2B+DRF+%2B+React;IN+SERVICE%3A+React+Native+app+on+Google+Play;ON+TIME%3A+applied+ML+and+NLP;GATE+OPEN%3A+available+for+new+projects" alt="board"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=24&duration=2800&pause=900&color=FFB000&center=true&vCenter=true&width=620&lines=Full-stack+developer%3A+Django+%2B+DRF+%2B+React;React+Native+app+live+on+Google+Play;Applied+machine+learning+and+NLP;Open+to+new+projects" alt="intro"/>
 
 <br/>
 
@@ -14,37 +14,54 @@
 
 </div>
 
-```
-╔════════════════════════════════════════════════════════════╗
-║ BOARDING PASS                                     SEAT 01A ║
-╠════════════════════════════════════════════════════════════╣
-║ PASSENGER  MOHAMMAD YASER ZARIFI                           ║
-║ FROM       AUT, Computer Engineering                       ║
-║ TO         Production, full-stack + AI                     ║
-║ CARRIER    Django · DRF · React · PostgreSQL               ║
-║ GATE       github.com/YaserZarifi                          ║
-╠════════════════════════════════════════════════════════════╣
-║ STATUS                                        OPEN TO WORK ║
-╚════════════════════════════════════════════════════════════╝
-```
+<br/>
+
+<table>
+<tr>
+<td width="57%" valign="top">
+
+### About
 
 I studied Computer Engineering at Amirkabir University of Technology, and most of
 what I build ends up in front of real users: booking flows, payments, passenger
-records, mobile apps. The backend is where I'm most comfortable, usually Django
-and DRF over PostgreSQL, with React or React Native on the front. I also work
-with machine learning, and I'm most interested in NLP and recommendation systems.
+records, mobile apps.
 
-<br/>
+The backend is where I'm most comfortable, usually Django and DRF over
+PostgreSQL, with React or React Native on the front. I also work with machine
+learning, and I'm most interested in NLP and recommendation systems.
+
+</td>
+<td width="43%" valign="top">
+
+### At a glance
+
+**Education**
+B.Sc. Computer Engineering, AUT
+
+**Core stack**
+Django · DRF · React · PostgreSQL
+
+**Learning now**
+Retrieval augmented generation, vector search, Persian NLP
+
+**Status**
+Open to work and collaboration
+
+</td>
+</tr>
+</table>
+
+---
 
 ## Projects
 
 | # | Project | What it is | Stack | Status |
 |:--|:--|:--|:--|:--|
-| 01 | **[Sharifineya Travel Platform](https://www.sharifineyatrip.com/)** | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | `IN SERVICE` |
-| 02 | **[Sharifineya Mobile](https://play.google.com/store/apps/details?id=com.sharifineya.mobile)** | Android app for searching and booking trips | React Native, Expo | `ON GOOGLE PLAY` |
-| 03 | **Urban Helper** | Civic platform for reporting and tracking city issues | Django, React, PostgreSQL | `DELIVERED` |
-| 04 | **Pahlawan** | AI workout planner with personalized training plans | Python, Django, React | `ACTIVE` |
-| 05 | **[Portfolio](https://yaserzarifi.vercel.app)** | Personal site for projects and experience | Next.js, React, Tailwind | `DEPLOYED` |
+| 01 | **[Sharifineya Travel Platform](https://www.sharifineyatrip.com/)** | Travel and transport system: web, admin, booking, payments | Django, DRF, React, PostgreSQL | `Live` |
+| 02 | **[Sharifineya Mobile](https://play.google.com/store/apps/details?id=com.sharifineya.mobile)** | Android app for searching and booking trips | React Native, Expo | `Google Play` |
+| 03 | **Urban Helper** | Civic platform for reporting and tracking city issues | Django, React, PostgreSQL | `Completed` |
+| 04 | **[Pahlawan](https://pahlawan-ai.netlify.app/)** | AI workout planner with personalized training plans | Python, Django, React | `Active` |
+| 05 | **[Portfolio](https://yaserzarifi.vercel.app/en)** | Personal site for projects and experience | Next.js, React, Tailwind | `Live` |
 
 <br/>
 
@@ -57,6 +74,8 @@ The travel and transportation system I built for Sharifineya Travel Services. It
 covers the customer website, the admin panel, booking, passenger management,
 payments, and multiple languages. One REST API serves both the web app and the
 mobile app.
+
+**[sharifineyatrip.com](https://www.sharifineyatrip.com/)**
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#161B22','primaryTextColor':'#C9D1D9','primaryBorderColor':'#FFB000','lineColor':'#FFB000','secondaryColor':'#0D1117','tertiaryColor':'#0D1117','fontFamily':'monospace'}}}%%
@@ -84,7 +103,7 @@ flowchart TD
 </details>
 
 <details>
-<summary><b>02 &nbsp; Sharifineya Mobile</b> &nbsp; <code>live on google play</code></summary>
+<summary><b>02 &nbsp; Sharifineya Mobile</b> &nbsp; <code>android</code></summary>
 
 <br/>
 
@@ -102,7 +121,7 @@ the website.
 </details>
 
 <details>
-<summary><b>03 &nbsp; Urban Helper</b> &nbsp; <code>b.sc. final project</code></summary>
+<summary><b>03 &nbsp; Urban Helper</b> &nbsp; <code>university project</code></summary>
 
 <br/>
 
@@ -134,13 +153,13 @@ enough that people would actually stick to them.
 </details>
 
 <details>
-<summary><b>05 &nbsp; Portfolio</b> &nbsp; <code>deployed</code></summary>
+<summary><b>05 &nbsp; Portfolio</b> &nbsp; <code>personal site</code></summary>
 
 <br/>
 
 My projects and experience in one place.
 
-**[yaserzarifi.vercel.app](https://yaserzarifi.vercel.app/en)**
+**[yaserzarifi.vercel.app](https://yaserzarifi.vercel.app)**
 
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=FFB000"/>
 <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=FFB000"/>
@@ -149,7 +168,7 @@ My projects and experience in one place.
 
 </details>
 
-<br/>
+---
 
 ## Tech Stack
 
@@ -162,7 +181,7 @@ My projects and experience in one place.
 | **Infra and Tools** | <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel&perline=5" height="38"/> | Docker, Git, GitHub, Linux, Vercel |
 | **Also** | <img src="https://skillicons.dev/icons?i=java,c&perline=2" height="38"/> | Java, C |
 
-<br/>
+---
 
 ## How I Work
 
@@ -174,11 +193,9 @@ My projects and experience in one place.
 | **Multilingual early** | Languages and RTL are handled from the start, not patched in. |
 | **Shipped** | Deployed and kept running, not left on localhost. |
 
-**Learning right now:** retrieval augmented generation, vector search, and Persian language NLP.
-
 **Interested in:** AI and machine learning, NLP, search and recommendation systems, database systems, cloud deployment, UX engineering.
 
-<br/>
+---
 
 ## Activity
 
@@ -193,7 +210,7 @@ My projects and experience in one place.
 
 </div>
 
-<br/>
+---
 
 ## Contact
 
@@ -201,7 +218,7 @@ My projects and experience in one place.
 |:--|:--|
 | **Email** | [yaserzarifi1378@gmail.com](mailto:yaserzarifi1378@gmail.com) |
 | **LinkedIn** | [mohammad-yaser-zarifi](https://www.linkedin.com/in/mohammad-yaser-zarifi/) |
-| **Portfolio** | [yaserzarifi.vercel.app](https://yaserzarifi.vercel.app) |
+| **Portfolio** | [yaserzarifi.vercel.app](https://yaserzarifi.vercel.app/en) |
 | **Google Play** | [Sharifineya Mobile](https://play.google.com/store/apps/details?id=com.sharifineya.mobile) |
 
 Open to full-stack and AI engineering roles, freelance work, and collaborations.
